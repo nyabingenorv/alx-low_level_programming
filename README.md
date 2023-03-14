@@ -1,2 +1,11 @@
-# 0x00. C - Hello, World
-1. hello word
+# ALX LOW LEVEL PROGRAMMING IN C
+
+- Hello world
+- Variables, if else if, loops
+- Functions 
+- Debugging
+- Pointers 
+- Recursion
+- Static libraries
+- Argc & argv
+- Malloc
