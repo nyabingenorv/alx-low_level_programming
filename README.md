@@ -9,3 +9,5 @@
 - Static libraries
 - Argc & argv
 - Malloc
+- Preprocessor
+- Variadic functions
