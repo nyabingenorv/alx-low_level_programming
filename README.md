@@ -11,3 +11,4 @@
 - Malloc
 - Preprocessor
 - Variadic functions
+- singly linked lists
