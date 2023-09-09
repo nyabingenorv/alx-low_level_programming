@@ -12,4 +12,5 @@
 - Preprocessor
 - Variadic functions
 - singly linked lists
-- maybe
+- DEBUGGING
+- poiters
