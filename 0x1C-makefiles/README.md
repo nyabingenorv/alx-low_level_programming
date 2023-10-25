@@ -1,3 +1,5 @@
 # MakeFiles
 
-``` make Makefile```
+```bash
+ make Makefile
+```
