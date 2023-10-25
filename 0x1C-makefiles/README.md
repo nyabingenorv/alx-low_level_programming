@@ -1,5 +1,5 @@
 # MakeFiles
 
 ```bash
- make Makefile
+ make -f Makefile
 ```
