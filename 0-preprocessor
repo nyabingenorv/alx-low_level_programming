@@ -1,3 +1,2 @@
 #!/bin/sh
-
 gcc -E "$CFILE" -o c 
