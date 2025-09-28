@@ -1,11 +1,4 @@
 # Basic C
 
-```bash
-fatal: The current branch master has no upstream branch.
-To push the current branch and set the remote as upstream, use
+## Compilation Process
 
-    git push --set-upstream origin master
-
-
-
-```
