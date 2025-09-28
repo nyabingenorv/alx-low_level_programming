@@ -9,7 +9,7 @@ GCC option: `-E`
 - This stage handles preprocessor directives.Directives like `#include` are used to insert the content of header files into the source code.
 - `#define` directives are used for macro expansion, replacing symbolic names with their defined values.
 - Comments are removed from the code
-- The output of the preprocessor is an expanded source file, typically with a .i extension.
+- The output of the preprocessor is an expanded source file, typically with a `.i` extension.
 
 ### Compilation
 
